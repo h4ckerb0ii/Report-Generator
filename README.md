@@ -1,1 +1,2 @@
 # Report-Generator
+Designed to supercharge your productivity, coded this with the help of AI. The report generator streamlines the entire documentation process, transforming hours of manual effort into effortless, high-quality results. By automating data synthesis and formatting, the tool eliminates administrative bottlenecks, allowing you to focus your time and expertise on high-impact strategic work rather than repetitive drafting.
