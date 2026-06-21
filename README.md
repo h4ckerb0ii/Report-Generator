@@ -5,7 +5,8 @@ Designed to supercharge your productivity, coded this with the help of AI. The r
 # How to use
 1. Create a python virtual environment and install the pre-requisite.
    ```python3 -m venv <venv name>```
-2. Run the web application locally.
+   ```pip install -r requirement.txt```
+3. Run the web application locally.
    ```streamlit run app.py```
 
 # Web View
